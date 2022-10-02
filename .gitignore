@@ -1,0 +1,11 @@
+# Editor files
+/.idea/
+/*.iml
+/.vscode/
+
+# macOS
+.DS_Store
+
+# Build output and test data
+target/
+/workdir/
