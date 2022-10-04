@@ -11,3 +11,7 @@ The (unpopular) rewinside.tv minigame remade with
 ## Contributing
 
 yes, please
+
+## On the topic of calculating when the elytra flight intersects a ring inside the minecraft world
+
+![Line Segment and Circle Intersection](./line-segment-and-circle-intersection.jpg)

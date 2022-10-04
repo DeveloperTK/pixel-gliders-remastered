@@ -8,9 +8,11 @@ import java.net.URL;
 public enum Resources {
 
     LOBBY_ANVIL_WORLD_PATH("/lobby"),
-    DEBUG_ANVIL_WORLD_PATH("/levels/debug")
+    BUILTIN_LEVELS_BASE_PATH("/levels");
 
     ;
+
+    public static final String LEVEL_FILE_NAME = "level.json";
 
     private final String resourcePath;
 
